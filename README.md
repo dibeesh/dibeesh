@@ -1,4 +1,4 @@
-[![banner-github-profile.png](https://i.postimg.cc/6QQ54Vzg/banner-github-profile.png)](https://postimg.cc/ZW1h1dGx)
+![Dibeesh KS - Technical Lead](https://github.com/dibeesh/node-express-ts-boilerplate/blob/main/images/banner_github_profile.png)
 
 # 👋 Hi, I'm Dibeesh KS
 

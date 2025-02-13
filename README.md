@@ -1,24 +1,34 @@
-## Hi there 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dibeesh.visitor-badge)
+# 👋 Hi, I'm Dibeesh KS
 
-<!--
-**dibeesh/dibeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a **Technical Lead** with **11 years of experience** in software development, specializing in designing and delivering **complex AI-based architecture solutions**. Passionate about **API orchestration, cloud computing, and containerized deployments**, I have extensive experience working with modern **web and mobile technologies**.
 
-- 🔭 I’m currently working on Node.JS
-- 🌱 I’m currently learning Etherium, AI, MLM 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Expertise
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+- **Backend Development**: Node.js, PHP, Python
+- **Databases**: MySQL, MongoDB, PostgreSQL, SQLite
+- **Frontend & Mobile**: AngularJS, Hybrid App Frameworks
+- **Cloud & DevOps**: AWS, Kubernetes, Docker, CI/CD
+- **Software Architecture**: Multi-system landscape, Security, Authorization, Data Provisioning
+- **Performance Optimization & Troubleshooting**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dibeesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+## 💼 Professional Experience
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+**Technical Lead | Advanced Millennium Technologies Pvt Ltd, Kochi**\
+*Mar 2013 - Present*
+
+- Leading software development and architectural design for global clients
+- Building scalable and secure applications
+- Optimizing system performance and resolving complex issues
+- Implementing CI/CD pipelines with Kubernetes & Dockerized deployments
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/) *(Add your LinkedIn profile URL)*
+- Twitter 
+- Check my website 
+- 📧 dibeesh\@amt.in
+
+Feel free to check out my repositories and collaborate on exciting projects! 🚀
+

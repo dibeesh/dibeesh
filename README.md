@@ -27,7 +27,7 @@ I'm a **Technical Lead** with **11 years of experience** in software development
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/dibeesh-ks-42345291/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dibeesh-ks-42345291/)
 - 🔗 [Twitter](https://x.com/SDibeesh83268)
 - Check my website 
 - 📧 dibeesh\@amt.in
